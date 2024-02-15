@@ -4,6 +4,14 @@
 
 Pour changer la langue : `Settings > Language > Français`
 
-## Recherche de séquence
+## Recherche de séquences
 
-## Alignement
+- Télécharger [Sequences.sb3](https://github.com/imartayan/atelier-scratch-bioinfo/raw/main/Sequences.sb3)
+- Charger le fichier : `Fichier > Importer depuis votre ordinateur`
+- Faire un programme permettant de rechercher un échantillon d'ADN dans un ensemble de séquences
+
+## Alignement de séquences
+
+- Télécharger [Alignement.sb3](https://github.com/imartayan/atelier-scratch-bioinfo/raw/main/Alignement.sb3)
+- Charger le fichier : `Fichier > Importer depuis votre ordinateur`
+- Faire un programme permettant d'aligner un fragment d'ADN dans une longue séquence
