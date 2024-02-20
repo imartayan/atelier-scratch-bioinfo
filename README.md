@@ -15,3 +15,34 @@ Pour changer la langue : `Settings > Language > Français`
 - Télécharger [Alignement.sb3](https://github.com/imartayan/atelier-scratch-bioinfo/raw/main/Alignement.sb3)
 - Charger le fichier : `Fichier > Importer depuis votre ordinateur`
 - Écrire le programme du robot pour aligner un fragment d'ADN dans une longue séquence
+
+## Outils en ligne
+
+### [Alignement avec score](https://alignment.sandbox.bio/)
+
+Essayer d'aligner les deux séquences suivantes :
+- `GGACTAGGTTGACTGGGA`
+- `GGTTGACTAGGTTGACTA`
+
+Quelles sont les différences entre les alignements Smith-Waterman et Needleman-Wunsch ?
+
+### [Alignement multiple](https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
+
+Sélectionner `DNA` puis copier/coller les séquences suivantes :
+```
+>seq1
+ATGAGTCTCTCTGATAAGGACAAGGCTGCTGTGAAAGCCCTATGG
+>seq2
+CTGTCTCCTGCCGACAAGACCAACGTCAAGGCCGCCTGGGGTAAG
+>seq3
+ACAAAAGCAACATCAAGGCTGCCTGGGGGAAGATTGGTGGCCATG
+>seq4
+GTCTCACTGATAAGGACAAGACCAACGTCATGGCCGCCTGAGGGA
+```
+Lancer l'alignement avec `Submit`.
+
+### [Repliement de protéines](https://alphafold.ebi.ac.uk/)
+
+Chercher `P09848` et visualiser sa structure en 3D.
+
+Quelle est cette protéine ? À quoi sert-elle ?
