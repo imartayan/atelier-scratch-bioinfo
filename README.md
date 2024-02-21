@@ -41,6 +41,16 @@ GTCTCACTGATAAGGACAAGACCAACGTCATGGCCGCCTGAGGGA
 ```
 Lancer l'alignement avec `Submit`.
 
+### [Recherche de séquences avec BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch)
+
+Copier/coller la séquence suivante dans `Enter Query Sequence` :
+```
+GTTTATTCTAATTTTCACTAGTTACAAGTTATGTTGCAATGACATTCCTATCTATAAACTATTTCCCACC
+```
+Lancer la recherche avec `BLAST`.
+
+Chez quels organismes retrouve-t-on cette séquence ? Dans quelle région du génome ?
+
 ### [Repliement de protéines](https://alphafold.ebi.ac.uk/)
 
 Chercher `P09848` et visualiser sa structure en 3D.
