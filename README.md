@@ -20,9 +20,11 @@ Pour changer la langue : `Settings > Language > Français`
 
 ### [Alignement avec score](https://alignment.sandbox.bio/)
 
-Essayer d'aligner les deux séquences suivantes :
+Copier/coller les séquences suivantes dans `Sequences to align` :
 - `GGACTAGGTTGACTGGGA`
 - `GGTTGACTAGGTTGACTA`
+
+Lancer l'alignement avec `Align`.
 
 Quelles sont les différences entre les alignements Smith-Waterman et Needleman-Wunsch ?
 
@@ -53,6 +55,6 @@ Chez quels organismes retrouve-t-on cette séquence ? Dans quelle région du gé
 
 ### [Structure des protéines](https://alphafold.ebi.ac.uk/)
 
-Chercher `P09848` et visualiser sa structure en 3D.
+Chercher la protéine `P09848` et visualiser sa structure en 3D.
 
 Quelle est cette protéine ? À quoi sert-elle ?
