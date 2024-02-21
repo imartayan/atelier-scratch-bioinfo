@@ -51,7 +51,7 @@ Lancer la recherche avec `BLAST`.
 
 Chez quels organismes retrouve-t-on cette séquence ? Dans quelle région du génome ?
 
-### [Repliement de protéines](https://alphafold.ebi.ac.uk/)
+### [Structure des protéines](https://alphafold.ebi.ac.uk/)
 
 Chercher `P09848` et visualiser sa structure en 3D.
 
