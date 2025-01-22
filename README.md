@@ -53,13 +53,14 @@ Lancer la recherche avec `BLAST`.
 
 Chez quels organismes retrouve-t-on cette séquence ? Dans quelle région du génome ?
 
-Essayer à nouveaux avec les séquences suivantes :
+Essayer à nouveau avec les séquences suivantes :
 ```
 TTGATGGCTATGCCTGATGGGACGAACGCTACCTAATCAAAGTCCGTGTTGTTTGCGCTCGCGCGTACCA
 ```
 ```
 GTGGGCTTCAATGTCAAGAACGTATCTGTCAAAGATGTTCGTCGTGGCAATGTGGCTGGTGATAGCAAAA
 ```
+Connait-on les organismes d'où proviennent ces séquences ?
 
 ### [Structure des protéines](https://alphafold.ebi.ac.uk/)
 
